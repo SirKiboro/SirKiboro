@@ -1,54 +1,17 @@
-# Hi, I'm Paul Kamau 👋
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/paul-kamau-6370a0318) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Ouhteen_Crypto) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paulkiboro58@proton.me) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+# 💫 About Me:
+I'm a Computer Science student and aspiring Cybersecurity Engineer & Software Developer, mainly focusing on backend development. I aim to create practical, high-impact projects that improve workflow efficiency, automate tasks, and explore ethical hacking.<br><br>🌱 I’m continuously learning and mastering Java, C#, Linux-based penetration testing, and cloud security concepts.<br>💬 I enjoy mentoring peers, sharing knowledge, and solving complex problems in tech.<br>
 
----
-
-## About Me
-
-I'm a **Computer Science student** and aspiring **Cybersecurity & Software Developer**. I focus on creating **practical, high-impact projects** that improve workflow efficiency, automate tasks, and explore ethical hacking.  
-
-- 🔭 I’m currently working on **MTAA-BOT (Telegram API project)** and strengthening my cybersecurity skills.  
-- 🌱 I’m continuously learning **C#**, **Linux-based penetration testing**, and **cloud security concepts**.  
-- 💬 I enjoy mentoring peers, sharing knowledge, and solving complex problems in tech.  
-- ⚡ Fun fact: I help friends crush their fitness goals while coding at night.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SirKiboro&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SirKiboro&theme=solarized-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SirKiboro&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=SirKiboro&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Skills
-
-**Programming & Tools:**  
-`C#` `Python` `Java` `Bash` `Linux` `Git` `Docker` `Kali Linux` `Ubuntu`  
-
-**Cybersecurity:**  
-`Penetration Testing` `Red Team` `Vulnerability Assessment` `Network Security` `Endpoint Security`  
-
-**Web & APIs:**  
-`HTML` `CSS` `JavaScript` `REST API` `Telegram API`  
-
----
-
-## Projects & Highlights
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| MTAA-BOT | Telegram-based automation bot | Python, Telegram API |
-| FPL Manager | Fantasy Premier League analytics tool | Python, Pandas |
-| Red Team Lab | Ubuntu-based ethical hacking lab | Linux, Kali, Metasploit |
-| To-Do App | Full-stack interactive task manager | HTML, CSS, JS |
-
----
-
-## GitHub Stats
-
-![SirKiboro GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
-
-## Contact Me
-
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)  
-- Twitter: [@your-twitter](https://twitter.com/your-twitter)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
