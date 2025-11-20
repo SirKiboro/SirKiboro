@@ -1,65 +1,54 @@
-## 👋 Hello, I’m SirKiboro<br>
-I'm a passionate technologist and problem-solver who finds joy in turning ideas into functional, scalable code. Ever since I wrote my first "Hello World", I’ve been fascinated by how technology shapes our world—and I’m driven to be part of that change.<br>
+# Hi, I'm Paul Kamau 👋
 
-
-### 🔧 Key Skills<br>
-
-* **Languages:** Python, JavaScript, Java, C++
-* **Web Technologies:** HTML, CSS, React, Node.js, Django, Express
-* **Databases & Tools:** MongoDB, PostgreSQL, Firebase, Git, Docker, Linux
-* **Other Tools:** VS Code, Postman, GitHub Actions
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
 
 ---
 
-### 🚀 Projects<br>
+## About Me
 
-* **MTAA-BOT** – A smart Telegram automation bot for accessing hyperlocal insights using the Telegram API.
-* **DevPortfolio** – A sleek personal portfolio template built with React and TailwindCSS, designed for developers to showcase their work.
-* **SecureChat** – An encrypted messaging platform focused on privacy, built with Node.js and Socket.io.
+I'm a **Computer Science student** and aspiring **Cybersecurity & Software Developer**. I focus on creating **practical, high-impact projects** that improve workflow efficiency, automate tasks, and explore ethical hacking.  
 
-> Explore my [repositories](https://github.com/SirKiboro?tab=repositories) to see more of what I’ve been building!
-
----
-
-### 💡 Tech Interests<br>
-
-* Android Development
-* Ethical Hacking & Cybersecurity
-* Full-Stack Web Development
-* Open-Source Collaboration
+- 🔭 I’m currently working on **MTAA-BOT (Telegram API project)** and strengthening my cybersecurity skills.  
+- 🌱 I’m continuously learning **C#**, **Linux-based penetration testing**, and **cloud security concepts**.  
+- 💬 I enjoy mentoring peers, sharing knowledge, and solving complex problems in tech.  
+- ⚡ Fun fact: I help friends crush their fitness goals while coding at night.
 
 ---
 
-### 🎯 Career Goals<br>
+## Skills
 
-My mission is to grow as a well-rounded developer, contribute to impactful tech solutions, and be part of teams that innovate with purpose. I’m always learning, building, and striving to make meaningful contributions in tech.
+**Programming & Tools:**  
+`C#` `Python` `Java` `Bash` `Linux` `Git` `Docker` `Kali Linux` `Ubuntu`  
+
+**Cybersecurity:**  
+`Penetration Testing` `Red Team` `Vulnerability Assessment` `Network Security` `Endpoint Security`  
+
+**Web & APIs:**  
+`HTML` `CSS` `JavaScript` `REST API` `Telegram API`  
+
+---
+
+## Projects & Highlights
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| MTAA-BOT | Telegram-based automation bot | Python, Telegram API |
+| FPL Manager | Fantasy Premier League analytics tool | Python, Pandas |
+| Red Team Lab | Ubuntu-based ethical hacking lab | Linux, Kali, Metasploit |
+| To-Do App | Full-stack interactive task manager | HTML, CSS, JS |
 
 ---
 
-### 🤝 Let’s Connect!
+## GitHub Stats
 
-I’m always open to connecting with fellow developers, collaborators, and recruiters.
-📬 Reach out via [GitHub](https://github.com/yourusername) or [LinkedIn](https://www.linkedin.com/in/paul-kiboro-6370a0318/) — let’s build something awesome together!
-
----
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paulkiboro58@proton.me) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SirKiboro&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SirKiboro&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SirKiboro&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![SirKiboro GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SirKiboro&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Contact Me
 
-
-
+- Email: your.email@example.com  
+- LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)  
+- Twitter: [@your-twitter](https://twitter.com/your-twitter)
