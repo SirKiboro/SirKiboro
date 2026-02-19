@@ -1,52 +1,70 @@
-<div align="center">
-  <h1>Hi, I'm Paul 👋</h1>
-  <p>Software Developer | Back-end Java Developer | Aspiring Cybersecurity Engineer</p>
-</div>
+<h1 align="center">Hi 👋, I'm Paul</h1>
+<h3 align="center">Mathematics and Computer Science student | Software developer | Back-end Java developer | Cyber security Enthusiast</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/paul-kamau-6370a0318">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://x.com/@Ouhteen_Crypto">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white">
-  </a>
-  <a href="mailto:paulkiboro58@proton.me">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
-  </a>
+- 🔭 I’m currently working on: [Project Pulse. A progress-tracking and performance monitoring system focused on structured growth and measurable improvement.](https://github.com/SirKiboro/ProgressPulse)
+
+- 🌱 I’m currently learning: 
+  - **Secure Software Architecture**
+  - **Linux Hardening**
+  - **Lab-Based Penetration Testing**
+  - **Cisco Junior Cybersecurity Analyst Path**
+  - **Microservices Architecture for Java Development**
+    - Spring Boot
+    - REST APIs
+    - Service-to-service communication
+    - Docker fundamentals
+
+- 👯 I’m looking to collaborate on:
+  - **Backend-Focused Systems**
+  - Clean architecture
+  - Scalable design
+  - Modular codebases
+
+- **Open-Source Cybersecurity Utilities**
+  - Security tooling
+  - Vulnerability analysis tools
+  - Defensive automation scripts
+
+- 🤝 I’m looking for help with
+  - **Real-World Threat Simulation Environments**
+    - Designing realistic attack scenarios
+    - Red vs Blue lab setups
+    - Safe exploit testing workflows
+
+  - **Scaling Backend Applications for Production**
+    - Performance optimization
+    - Load handling strategies
+    - Deployment architecture
+      
+- 👨‍💻 My projects [https://github.com/SirKiboro?tab=repositories](https://github.com/SirKiboro?tab=repositories)
+
+### 💬 Ask me about
+
+- **Java Application Architecture**
+  - Layered design
+  - Modular structuring
+  - Clean code principles
+
+- **Backend System Design (Java)**
+  - Data flow structuring
+  - Input validation & error handling
+  - Console-based system design patterns
+
+- **Cybersecurity Fundamentals**
+  - Network basics
+  - Threat modeling
+  - Defensive principles
+
+- **Linux Lab Environments**
+  - Environment setup
+  - Command-line workflows
+  - Security testing practice
+
+- 📫 Let's connect **paulkiboro58@proton.me**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
----
-
-<h2 align="center">💫 About Me</h2>
-<p align="center">
-I'm a Computer Science student and aspiring Cybersecurity Engineer & Software Developer, focusing on back-end development. I create practical, high-impact projects that improve workflow efficiency, automate tasks, and explore ethical hacking.<br><br>
-🌱 Continuously learning Java, C#, Linux-based penetration testing, and cloud security.<br>
-💬 Enjoy mentoring peers, sharing knowledge, and solving complex tech problems.
-</p>
-
----
-
-<h2 align="center">💻 Tech Stack</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white">
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SirKiboro&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false"><br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SirKiboro&theme=solarized-dark&hide_border=false"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirKiboro&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-</p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=SirKiboro&icon=0&color=0">
-  </a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
