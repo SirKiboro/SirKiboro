@@ -17,7 +17,7 @@
 
 <br clear="both">
 
-<h3 align="center">Software Developer | Backend Java Engineer | Cybersecurity Enthusiast</h3>
+<h3 align="center">Software Developer | Backend Java Engineer | Building towards DevSecOps</h3>
 
 ###
 
